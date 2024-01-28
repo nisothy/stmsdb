@@ -1,0 +1,13 @@
+.style-content{
+    display: flex;
+    justify-content: space-between;
+}
+.btn-action{
+    color:black
+}
+.btn-action a:hover{
+    text-decoration: none;
+}
+.btn-action a{
+    margin-right: 5px;    
+}
